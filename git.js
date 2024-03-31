@@ -1,2 +1,1 @@
-// hel gusss
-lkjjjjjjjjjjjj
+console.log("helo im ajmal")
