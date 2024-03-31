@@ -1,1 +1,1 @@
-// hel gusss
+console.log("helo im ajmal")
