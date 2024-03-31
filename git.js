@@ -9,3 +9,6 @@ console.log("secons stach")
 console.log("secons stach")
 console.log("secons stach")
 console.log("git stash is workin or not")
+
+
+console.log("finkfjdfjsd")
